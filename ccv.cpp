@@ -130,5 +130,6 @@ int main()
     authenticate(creditCardNumber);
 
     final_exit_message();
+    
     return 0;
 }
