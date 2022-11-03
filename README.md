@@ -1,6 +1,6 @@
 # Credit Card Validator
 
-A C++ Program to validate the authenticity of a Credit Card, made by possible by the application of the Famous Luhn's Algorithm.
+A C++ Program to validate the authenticity of a Credit Card, made possible by the application of the Famous Luhn's Algorithm.
 
 ## Requirements
 
